@@ -1,6 +1,5 @@
 'use strict';
 
-var LCARS = require('lcars');
 var EventEmitter = require('events').EventEmitter;
 var merge = require('amp-merge');
 var CHANGE_EVENT = 'change';
