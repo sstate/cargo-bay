@@ -4,6 +4,8 @@
 
 A base store for flux applications
 
+Demo [[source](https://github.com/sstate/examples#flux-todomvc---lcars-and-cargobay)] [[live demo](http://sstate.github.io/examples/examples/flux-todomvc/)]
+
 ## Install
 
 `npm install cargo-bay`
