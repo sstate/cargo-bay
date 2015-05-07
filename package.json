@@ -1,6 +1,6 @@
 {
   "name": "cargo-bay",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A base store for flux applications",
   "license": "MIT",
   "main": "src/index.js",
@@ -39,7 +39,7 @@
     ]
   },
   "peerDependencies": {
-    "react": "0.12.x",
+    "react": "0.13.x",
     "flux": "2.0.x"
   },
   "devDependencies": {
