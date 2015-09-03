@@ -1,6 +1,6 @@
 {
   "name": "cargo-bay",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A base store for flux applications",
   "license": "MIT",
   "main": "src/index.js",
@@ -48,8 +48,8 @@
     "jest-cli": "^0.2.2",
     "reactify": "^1.0.0",
     "watchify": "^2.3.0",
-    "react": "^0.12.2",
-    "react-tools": "^0.12.2"
+    "react": "^0.13.x",
+    "react-tools": "^0.13.x"
   },
   "repository": {
     "type": "git",
