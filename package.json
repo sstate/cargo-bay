@@ -1,6 +1,6 @@
 {
   "name": "cargo-bay",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A base store for flux applications",
   "license": "MIT",
   "main": "src/index.js",
@@ -58,7 +58,7 @@
   "dependencies": {
     "amp-merge": "^1.0.0",
     "flux": "^2.0.1",
-    "lcars": "^1.0.2"
+    "lcars": "^1.1.x"
   },
   "author": "mattwondra <mattwondra@gmail.com> (http://mattwondra.com/)",
   "contributors": [
